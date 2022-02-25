@@ -1,5 +1,7 @@
 # sycTool
-a bash script for check mail if it is available or not
+a bash script for check mail if it is available or not .
+
+### Installation steps :
 
 `apt update && apt upgrade -y`
 
@@ -13,4 +15,4 @@ a bash script for check mail if it is available or not
 
 `chmod +x sycTool.sh`
 
-`bash sycTool.sh`
+`./sycTool.sh`
