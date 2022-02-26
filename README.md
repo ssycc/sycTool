@@ -1,5 +1,5 @@
 # sycTool
-a bash script for check mail if it is available or not .
+a bash script for check mail if it is valid or not .
 
 ### Installation steps :
 
